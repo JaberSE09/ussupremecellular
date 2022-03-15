@@ -17,7 +17,7 @@ Clone the Repository at https://github.com/JaberSE09/ussupremecellular and run t
 
 ## Usage
 
-This website provides links to the section of the website fr
+This website provides links to the section of the website 
 
     ```md
     ![alt text](assets/images/screenshot.png)
